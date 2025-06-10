@@ -13,7 +13,7 @@ body {
 }
 
 header {
-  background-color: #cc671f;
+  background-color: #dd5ec8;
   text-align: center;
   padding: 40px 20px;
   border-radius: 12px;
@@ -22,7 +22,7 @@ header {
 
 header h1, header p {
   font-family: 'Quicksand', sans-serif;
-  color: #fff2e4;
+  color: #ffffff;
 }
 
 header h1 {
@@ -44,7 +44,7 @@ header p {
 
 .intro h2, .galeria h2, .curiosidades h2 {
   font-size: 1.8em;
-  color: #2e7d32;
+  color: #dd5ec8;
   margin-bottom: 10px;
 }
 
@@ -56,7 +56,7 @@ header p {
 }
 
 .item {
-  background-color: #f0f4c3;
+  background-color: #f0b0e5;
   padding: 10px;
   border-radius: 8px;
   text-align: center;
@@ -88,12 +88,12 @@ footer {
   text-align: center;
   margin-top: 40px;
   font-size: 0.9em;
-  color: #555;
+  color: #222222;
 }
 
 .rodape-centralizado {
   position: relative;
-  background: #cc671f;
+  background: #db47c3;
   color: white;
   text-align: center;
   padding: 20px 40px;
